@@ -1,0 +1,3 @@
+class Diesel
+
+end	
